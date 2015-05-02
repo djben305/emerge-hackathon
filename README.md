@@ -14,8 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
-
-
+- [because puppies](https://github.com/djben305/becausepuppies) by Team Doge
 
 Registering Your Team
 ---------------------
